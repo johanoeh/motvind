@@ -1,5 +1,4 @@
 from openpyxl import load_workbook
-
 class DAO:
     def __init__(self):
         self.headerString ="subject,Start date,Start time,End date,End time,All Day Event,Description,Location, Private";
